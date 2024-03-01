@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nakul3000
 - 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Deep learning technologies and advanced ML
+- 🌱 I’m currently building Deep learning technologies and advanced ML
+-  😄 I Love to build Data science solutions for business problems.
 - 💞️ I’m looking to collaborate on projects and kaggle competetions.
 - 📫 How to reach me : nakul.havaldar@gmail.com
 
