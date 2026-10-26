@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nakul!
 - 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently building Deep learning technologies and RAG applicatoins with LLMs.
--  😄 I Love to build Data science solutions for business problems.
+- 🌱 I’m currently GTM AI production application for all of Adobe's GTM worflows.
 - ⛰️ I love hiking and have travelled Asia, US and Europe while working as a Data Scientist.
 - 📫 How to reach me : nakul.havaldar@gmail.com
 
